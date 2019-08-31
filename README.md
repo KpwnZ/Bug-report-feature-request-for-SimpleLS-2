@@ -10,5 +10,5 @@ Bug report&amp;feature request for SimpleLS 2
 - [x] Fix safemode.
 - [x] Fix ColorFlow full screen support.
 ### Support
-- [ ] ColorFlow larger support.
+- [x] ColorFlow larger support.
 - [ ] NextUp support
