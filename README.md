@@ -1,14 +1,20 @@
 # Bug-report-feature-request-for-SimpleLS-2
 Bug report&amp;feature request for SimpleLS 2
 
-## Version 1.1.0
+## Version 1.1.0-beta 1
 ### Feature&amp;Improvement
 - [x] Re-design Simple Player.
 - [x] Improve AOD Watch Style animation.
-- [ ] Better AOD battery life.
 ### Fix
 - [x] Fix safemode.
 - [x] Fix ColorFlow full screen support.
 ### Support
 - [x] ColorFlow larger support.
-- [ ] NextUp support
+
+## Version 1.1.0-beta 2
+### Feature&amp;Improvement
+- [ ] Better AOD battery life.
+- [ ] Better burning in protection.
+- [ ] Show battery infomation with AOD mode.
+### Support
+- [ ] NextUp support.
