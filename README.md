@@ -13,8 +13,9 @@ Bug report&amp;feature request for SimpleLS 2
 
 ## Version 1.1.0-beta 2
 ### Feature&amp;Improvement
-- [ ] Better AOD battery life.
+- [x] Better AOD battery life.
 - [ ] Better burning in protection.
 - [ ] Show battery infomation with AOD mode.
+- [ ] More unit of measurement for Step Count Widget.
 ### Support
 - [ ] NextUp support.
