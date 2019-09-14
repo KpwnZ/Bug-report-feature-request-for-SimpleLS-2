@@ -20,4 +20,4 @@ Bug report&amp;feature request for SimpleLS 2
 - [ ] Quick unlock for devices with FaceID.
 - [x] Improve the animation for AOD Watch Style.
 ### Support
-- [ ] NextUp support.
+- [x] NextUp support.
