@@ -1,7 +1,7 @@
 # Bug-report-feature-request-for-SimpleLS-2
 Bug report&amp;feature request for SimpleLS 2
 
-## Version 1.1.0-beta 1
+## Version 1.1.0-beta 1 (Has been released)
 ### Feature&amp;Improvement
 - [x] Re-design Simple Player.
 - [x] Improve AOD Watch Style animation.
