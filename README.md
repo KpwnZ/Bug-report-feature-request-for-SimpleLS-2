@@ -17,7 +17,6 @@ Bug report&amp;feature request for SimpleLS 2
 - [ ] Better burning in protection.
 - [ ] Show battery infomation with AOD mode.
 - [x] More unit of measurement for Step Count Widget.
-- [ ] Quick unlock for devices with FaceID.
 - [x] Improve the animation for AOD Watch Style.
 ### Support
 - [x] NextUp support.
