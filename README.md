@@ -20,4 +20,4 @@ Bug report&amp;feature request for SimpleLS 2
 - [x] Improve the animation for AOD Watch Style.
 ### Support
 - [x] NextUp support.
-- [ ] Artsy support.
+- [x] Artsy support.
