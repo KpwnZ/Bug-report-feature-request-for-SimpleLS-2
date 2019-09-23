@@ -24,7 +24,7 @@ Bug report&amp;feature request for SimpleLS 2
 
 ## Version 1.1.0-beta 3
 ### Feature&amp;Improvement
-- [ ] Better preference bundle arrangement.
-- [ ] Add AOD Notification center to Always on display mode.
+- [x] Better preference bundle arrangement.
+- [x] Add AOD Notification center to Always on display mode.
 ### Support
 - [x] ShortLook support.
