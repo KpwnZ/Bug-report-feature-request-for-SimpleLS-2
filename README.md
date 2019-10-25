@@ -30,3 +30,9 @@ Bug report&amp;feature request for SimpleLS 2
 ### Support
 - [x] ShortLook support.
 - [x] Fully support ColorFlow for some specific devices.
+
+## Version 1.1.1-beta 1 (Has been released)
+### Feature&amp;Improvement
+- [x] Added a small lock icon to lock screen.
+### Fix
+- [x] Try to fix the crash for media player.
