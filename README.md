@@ -36,3 +36,7 @@ Bug report&amp;feature request for SimpleLS 2
 - [x] Added a small lock icon to lock screen.
 ### Fix
 - [x] Try to fix the crash for media player.
+
+## Version 1.1.1-beta 2 (Has been released)
+### Fix
+- [x] Fixed the crash for media player.
