@@ -40,3 +40,10 @@ Bug report&amp;feature request for SimpleLS 2
 ## Version 1.1.1-beta 2 (Has been released)
 ### Fix
 - [x] Fixed the crash for media player. (If you have NextUp 2 installed, please enable Slimmed mode if you want to use Simple Player in SimpleLS 2)
+
+## Version 1.1.1-beta 2 (Has been released, ready for release)
+### Feature&amp;Improvement
+- [x] Now the lock icon has color too.
+- [x] Improved the animation for lock icon.
+### Fix
+- [x] Fixed the lock icon for devices. 
