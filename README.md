@@ -47,3 +47,13 @@ Bug report&amp;feature request for SimpleLS 2
 - [x] Improved the animation for lock icon.
 ### Fix
 - [x] Fixed the lock icon for devices. 
+
+## Version 1.2.3-beta 1 (Has been released)
+### Feature&amp;Improvement
+- [x] Added different mode for lock icon.
+- [x] Fixed some problems with media player.
+
+## Version 1.3.0-beta 1 (Under development)
+### Feature&amp;Improvement
+- [ ] Cycling widget.
+- [ ] Lunar calendar.
