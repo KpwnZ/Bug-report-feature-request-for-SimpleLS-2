@@ -57,3 +57,5 @@ Bug report&amp;feature request for SimpleLS 2
 ### Feature&amp;Improvement
 - [ ] Cycling widget.
 - [ ] Lunar calendar.
+### Fix
+- [x] Fixed the battery drain problem with some devices with Apple Watch.
