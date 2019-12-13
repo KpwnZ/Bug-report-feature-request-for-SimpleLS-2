@@ -53,9 +53,11 @@ Bug report&amp;feature request for SimpleLS 2
 - [x] Added different mode for lock icon.
 - [x] Fixed some problems with media player.
 
+## Version 1.2.3-beta 2 (Has been released)
+### Fix
+- [x] Fixed the battery drain problem with some devices with Apple Watch.
+
 ## Version 1.3.0-beta 1 (Under development)
 ### Feature&amp;Improvement
 - [ ] Cycling widget.
 - [ ] Lunar calendar.
-### Fix
-- [x] Fixed the battery drain problem with some devices with Apple Watch.
