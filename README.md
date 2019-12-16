@@ -61,3 +61,6 @@ Bug report&amp;feature request for SimpleLS 2
 ### Feature&amp;Improvement
 - [ ] Cycling widget.
 - [ ] Lunar calendar.
+### Fix
+- [ ] Fix the status bar lock icon support for iOS 12.
+
