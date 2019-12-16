@@ -57,10 +57,12 @@ Bug report&amp;feature request for SimpleLS 2
 ### Fix
 - [x] Fixed the battery drain problem with some devices with Apple Watch.
 
+## Version 1.2.3-beta 3 (Has been released)
+### Fix
+- [ ] Fix the status bar lock icon support for iOS 12.
+
 ## Version 1.3.0-beta 1 (Under development)
 ### Feature&amp;Improvement
 - [ ] Cycling widget.
 - [ ] Lunar calendar.
-### Fix
-- [ ] Fix the status bar lock icon support for iOS 12.
 
