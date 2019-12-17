@@ -64,7 +64,7 @@ Bug report&amp;feature request for SimpleLS 2
 ## Version 1.3.0-beta 1 (Under development)
 ### Feature&amp;Improvement
 - [x] Cycling weather widget.
-- [ ] Lunar calendar.
+- [x] Lunar calendar.
 
 ## Version 1.3.0-beta 2 (Under development)
 ### Feature&amp;Improvement
