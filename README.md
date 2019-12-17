@@ -63,6 +63,11 @@ Bug report&amp;feature request for SimpleLS 2
 
 ## Version 1.3.0-beta 1 (Under development)
 ### Feature&amp;Improvement
-- [ ] Cycling widget. (It allows users to swicth between weather information and sunrise/sunset widget now.)
+- [ ] Cycling weather widget.
 - [ ] Lunar calendar.
+
+## Version 1.3.0-beta 2 (Under development)
+### Feature&amp;Improvement
+- [ ] Cycling all widgets and use different method to triger the action.
+- [ ] New Always On Display mode.
 
