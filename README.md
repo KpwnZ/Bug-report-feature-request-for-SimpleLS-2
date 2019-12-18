@@ -61,7 +61,7 @@ Bug report&amp;feature request for SimpleLS 2
 ### Fix
 - [x] Fix the status bar lock icon support for iOS 12.
 
-## Version 1.3.0-beta 1 (Under development)
+## Version 1.3.0-beta 1 (Has been released)
 ### Feature&amp;Improvement
 - [x] Cycling weather widget.
 - [x] Lunar calendar.
