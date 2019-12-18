@@ -65,6 +65,7 @@ Bug report&amp;feature request for SimpleLS 2
 ### Feature&amp;Improvement
 - [x] Cycling weather widget.
 - [x] Lunar calendar.
+- [x] Dark mode support for preferences bundle.
 
 ## Version 1.3.0-beta 2 (Under development)
 ### Feature&amp;Improvement
