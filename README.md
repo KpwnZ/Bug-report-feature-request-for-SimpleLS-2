@@ -70,6 +70,5 @@ Bug report&amp;feature request for SimpleLS 2
 
 ## Version 1.3.0-beta 2 (Under development)
 ### Feature&amp;Improvement
-- [ ] Cycling all widgets and use different method to triger the action.
-- [ ] New Always On Display mode.
+- [x] Cycling all widgets.
 
