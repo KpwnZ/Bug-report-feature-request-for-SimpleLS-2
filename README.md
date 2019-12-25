@@ -70,5 +70,5 @@ Bug report&amp;feature request for SimpleLS 2
 
 ## Version 1.3.0-beta 2 (Under development)
 ### Feature&amp;Improvement
-- [x] Cycling all widgets.
+- [x] Cycling all widgets. (Enable from settings page, touch to switch between different widget.)
 
