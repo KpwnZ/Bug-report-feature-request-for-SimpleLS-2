@@ -68,7 +68,10 @@ Bug report&amp;feature request for SimpleLS 2
 - [x] Dark mode support for preferences bundle.
 - [x] Reload appconduitd automatically after installing.
 
-## Version 1.3.0-beta 2 (Under development)
+## Version 1.3.0-beta 2 (Has been released)
 ### Feature&amp;Improvement
 - [x] Cycling all widgets. (Enable from settings page, touch to switch between different widget.)
 
+## Version 1.3.0-beta 3 (Has been released)
+### Feature&amp;Improvement
+- [x] Fixed the original settings for lock icon position.
