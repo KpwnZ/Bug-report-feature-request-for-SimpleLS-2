@@ -76,7 +76,7 @@ Bug report&amp;feature request for SimpleLS 2
 ### Feature&amp;Improvement
 - [x] Fixed the original settings for lock icon position.
 
-## Version 1.3.0-beta 3 (Under development)
+## Version 1.4.0-beta 1 (Under development)
 ### Feature&amp;Improvement
 - [ ] Added new alarm manager widget.
 - [ ] Reduce battery drain when using AOD mode. (I am still finding ways to make it has better battery life.)
